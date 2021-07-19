@@ -1,6 +1,23 @@
 # nest-notion
 
+![npm](https://img.shields.io/npm/v/nest-notion?style=flat-square)
+![npm](https://img.shields.io/npm/dt/nest-notion?style=flat-square)
+
 Nest module for using the [Notion API](https://developers.notion.com/).
+
+## Install
+
+### NPM
+
+```sh
+npm i nest-notion
+```
+
+### Yarn
+
+```sh
+yarn add nest-notion
+```
 
 ## Usage
 
