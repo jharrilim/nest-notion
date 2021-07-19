@@ -9,7 +9,7 @@ export class NotionService {
 
   constructor(
     @Inject(NOTION_CONFIG_OPTIONS)
-    private readonly options: NotionOptions
+    public readonly options: NotionOptions
   ) {
     this.notion = new Client(this.options);
   }
