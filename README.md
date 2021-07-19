@@ -24,8 +24,10 @@ yarn add nest-notion
 In `app.module.ts`:
 
 ```ts
+import { Module } from '@nestjs/common';
 import { NotionModule } from 'nest-notion';
 import { ConfigModule } from '@nestjs/config';
+import { VegetableModule } from './vegetable/vegetable.module';
 
 @Module({
   imports: [
