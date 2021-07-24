@@ -29,6 +29,6 @@
     "@nestjs/common": "^8.0.4"
   },
   "dependencies": {
-    "@notionhq/client": "^0.2.2"
+    "@notionhq/client": "^0.2.3"
   }
 }

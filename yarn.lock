@@ -12,10 +12,10 @@
     tslib "2.3.0"
     uuid "8.3.2"
 
-"@notionhq/client@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@notionhq/client/-/client-0.2.2.tgz#5793c9c0b776173ad23f2de00c0a353453e8161b"
-  integrity sha512-xklQeq/NwOPhixsa5Mj02B+od0+FhsGnBYLYrGmA4GLIeiPciSxuUaBVtGyKjzVbmbF8wTGq3Nx3Y23BglBqSQ==
+"@notionhq/client@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@notionhq/client/-/client-0.2.3.tgz#dba210cd4aeb21e15e24decb1b5709f09083fbcd"
+  integrity sha512-UsJUZT02zOF4PxT+1RcAmZcXKBbodoGz78Qi+RSxlGKPlbje0SPn/3yhkTfvQxcN/tF7PiBIrVSihGSAT+SXxg==
   dependencies:
     "@types/node-fetch" "^2.5.10"
     node-fetch "^2.6.1"
